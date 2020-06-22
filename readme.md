@@ -1,5 +1,7 @@
 ## Form Validator (Intro Project)
 
+https://sergeijolley.github.io/form-Validator/
+
 Simple client side form validation. Check requird, length, email and password match
 
 ## Project Specifications
