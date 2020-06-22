@@ -1,4 +1,4 @@
-## Form Validator (Intro Project)
+## Form Validator
 
 https://sergeijolley.github.io/form-Validator/
 
